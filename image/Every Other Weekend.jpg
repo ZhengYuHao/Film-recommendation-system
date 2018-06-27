@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html;
+      charset=ISO-8859-1">
+    <title>Days Inn Hotels | Site Temporarily Unavailable</title>
+  </head>
+  <body style=" background-image: none; background-repeat: repeat;
+    background-attachment: scroll; background-position: 0pt 0pt;
+    background-clip: border-box; background-size: auto auto;
+    background-color: rgb(228, 244, 248);">
+    <table style="background: url('/failover/bg.PNG') repeat-y scroll left top
+      transparent; margin: 0pt auto; min-height: 100%; padding: 0pt 8px;
+      position: relative; width: 943px;height: 613px;" align="center">
+      <tbody>
+        <tr>
+          <td>
+            <table style="width: 100%; height: 100%;">
+              <tbody>
+                <tr>
+                  <td style="height: 100px;" align="center"><img
+                      src="/failover/bl_daysinn.png" style="height: 100px;"></td>
+                </tr>
+                <tr>
+                  <td style="color: rgb(102, 102, 102); font-family:
+                    Arial,Helvetica,sans-serif; font-size:
+                    15px;padding:15px;vertical-align:top;"
+                    height="320px" align="center">
+                    <p>This website is temporarily unavailable but we'll
+                      be back soon!</p>
+                    <p>For reservations, dial 1-800-225-3297.</p>
+                    <p>When calling outside of the U.S. or Canada, dial
+                      1-877-229-6668.</p>
+                    <p>We apologize for any inconvenience and appreciate
+                      your patience.</p>
+                    <p>Thank you for visiting Days Inn.</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="color: rgb(102, 102, 102); font-family:
+                    Arial,Helvetica,sans-serif; font-size: 10px;height:
+                    150px;vertical-align:bottom;" align="center">
+                    <p>&copy;2012 Days Inn Worldwide, Inc. All rights
+                      reserved. All hotels are independently owned and
+                      operated.</p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <!-- SiteCatalyst code version: H.19.4. -->
+    <script language="JavaScript" type="text/javascript">
+var s_account="chgdaysinnv2,chgglobalrollupv2";
+var currencycode = "";
+</script>
+    <script language="JavaScript" type="text/javascript" src="/failover/s_code.js"></script>
+    <script language="JavaScript" type="text/javascript">
+s.channel="Error";
+s.pageName="Akamai - Site Failover";
+/* WARNING: Changing any of the below variables will cause drastic changes to how your visitor data is collected. Changes should only be made when instructed to do so by your account manager.*/
+s.dc="112"
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();
+if(s_code)
+document.write(s_code)
+</script> <noscript>
+<a href="http://www.omniture.com" title="Web Analytics">
+<img src="https://102.112.2O7.net/b/ss/chgdaysinnv2,chgglobalrollupv2/1/H.19.4--NS/0" height="1" border="0" width="1">
+</a>
+</noscript>
+  </body>
+</html>

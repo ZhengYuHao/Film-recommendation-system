@@ -1,0 +1,789 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>tvb.com</title>
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+<meta name="msapplication-task" content="name=tvb.com; action-uri=http://www.tvb.com;icon-uri=http://www.tvb.com/favicon.ico" />
+<meta name="msapplication-task" content="name=myTV; action-uri=http://http://mytv.tvb.com;icon-uri=http://www.tvb.com/favicon.ico" />
+<meta name="msapplication-task" content="name=藝人; action-uri=http://artiste.tvb.com;icon-uri=http://www.tvb.com/favicon.ico" />
+<meta name="msapplication-task" content="name=討論區; action-uri=http://forum.tvb.com;icon-uri=http://www.tvb.com/favicon.ico" />
+<meta name="msapplication-task" content="name=節目表; action-uri=http://schedule.tvb.com;icon-uri=http://www.tvb.com/favicon.ico" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="description" content="tvb.com是電視廣播有限公司戮力發展的官方網站。延續TVB在電視廣播業務數十年的優勢，tvb.com開創互動網上電視、劇集重溫、24小時新聞直播、包羅萬有的藝人資訊、網誌(Blog)、討論區等，提供最新最熱門的娛樂資訊以至生活百科……" />
+<meta http-equiv="keywords" content="TVB,TVB.COM,電視廣播有限公司,無綫電視,翡翠台,明珠台,高清翡翠台,Pearl,myTV,網上電視,新聞,娛樂,劇集,藝員,音樂" />
+<meta name="robots" content="noarchive" />
+<script>
+var theme = "day";
+</script>
+<link rel="stylesheet" type="text/css" href="http://img.tvb.com/homepage/css/common.min.rev.1.7.css?ts=1528191544" />
+<link rel="stylesheet" type="text/css" href="http://img.tvb.com/homepage/css/mpm_grid/style1.css" />
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="http://img.tvb.com/homepage/css/ie.rev.1.5.css" />
+<style>
+#hd-login-status {
+        width: 200px!important;
+	margin-top: 32px!important;
+}
+</style>
+<![endif]-->
+<!--[if IE 7]>
+<style>
+#main-right {margin-left: 15px!important;}
+</style>
+<![endif]-->
+<script src="http://img.tvb.com/homepage/js/main.min.4.js"></script>
+<!--[if IE 6]>
+<script src="http://img.tvb.com/homepage/js/ie.js"></script>
+<![endif]-->
+<link rel="stylesheet" href="http://img.tvb.com/membership/css/tvblogin.css" />
+<style>
+#hd-login-status .ghd-login-status  {
+float:right;
+height:18px;
+line-height:1.2em;
+margin:0;
+padding: 0px;
+text-align:left;
+}#hd-login-status .ghd-login-status {
+        float: left;
+}
+#hd-login-status {
+        width: 230px;
+}
+#hd-login-status .ghd-login-status a, #hd-login-status .ghd-login-status span {
+        float:left;}
+#hd-login-status .ghd-login-status a {
+        text-decoration: none!important;
+}
+#hd-login-status .ghd-login-status a:hover {
+        text-decoration: underline!important;
+}
+a.fb-g-login{background:url(http://img.tvb.com/membership/img/fbconnect_small.gif) no-repeat; cursor:pointer; width:78px; height:18px; display:inline-block; vertical-align:top; margin-left:10px;}
+.fb-head{ margin-left:10px; float:left}
+.fb-head img { float:left; vertical-align:middle;}
+#hd-login-status * {
+color:#666666;
+/*font-family:"Century Gothic",arial !important;*/
+font-size:12px !important;
+text-decoration:none !important;
+}
+/*
+#ft-crop .ft-crop-info-logo {
+background-image:url("http://img.tvb.com/homepage/footer_tvb_logo_white_bw_day.gif")!important;
+
+background-position:0 0!important;
+}
+*/
+
+
+</style>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12958664-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Google Tag Manager -->
+<script src="http://img.ads.tvb.com/ana/gtm/home/min.js"></script>
+<script src="http://img.ads.tvb.com/ads/home/min.js"></script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Start: GPT Sync -->
+<script type='text/javascript'>
+        var gptadslots=[];
+        (function(){
+     var useSSL = 'https:' == document.location.protocol;
+     var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+     document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+     })();
+    </script>
+
+<script type="text/javascript">
+/*
+    //Adslot 1 declaration
+    gptadslots[1]= googletag.defineSlot('/7299/web.homepage.tvb', [[300,250]],'div-gpt-ad-lrec').setTargeting('pos',['1']).addService(googletag.pubads());
+
+    //Adslot 2 declaration
+    gptadslots[2]= googletag.defineSlot('/7299/web.homepage.tvb', [[300,250]],'div-gpt-ad-lrec2').setTargeting('pos',['2']).addService(googletag.pubads());
+
+    //Adslot 3 declaration
+    gptadslots[3]= googletag.defineSlot('/7299/web.homepage.tvb', [[300,100]],'div-gpt-ad-minibanner').addService(googletag.pubads());
+
+    //Adslot 4 declaration
+    gptadslots[4]= googletag.defineSlot('/7299/web.homepage.tvb', [[310,70]],'div-gpt-ad-marketplace').addService(googletag.pubads());
+
+    //Adslot 5 declaration
+    gptadslots[5]= googletag.defineSlot('/7299/web.homepage.tvb', [[1,1]],'div-gpt-ad-textlink').setTargeting('pos',['1']).addService(googletag.pubads());
+
+    //Adslot 6 declaration
+    gptadslots[6]= googletag.defineSlot('/7299/web.homepage.tvb', [[1,1]],'div-gpt-ad-textlink2').setTargeting('pos',['2']).addService(googletag.pubads());
+
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().enableSyncRendering();
+    googletag.enableServices();
+*/
+var ads = new ADS(
+{
+	gpt:[{
+        	id:'div-gpt-ad-to',
+        	iu:'/7299/web.homepage.tvb/home/to',
+        	sz:[1, 1],
+        	cp:{ adtype:'takeover'}
+        },{
+		id:'div-gpt-ad-lrec',
+		iu:'/7299/web.homepage.tvb/home/lrec',
+		sz:[300, 250],
+		cp:{ adtype:'lrec'}
+	},{
+		id:'div-gpt-ad-lrec-2',
+		iu:'/7299/web.homepage.tvb/home/lrec2',
+		sz:[300, 250],
+		cp:{ adtype:'lrec2'}
+	},{
+		id:'div-gpt-ad-minibanner',
+		iu:'/7299/web.homepage.tvb/home/minibanner',
+		sz:[300, 100],
+		cp:{ adtype:'minibanner'}
+	},{
+		id:'div-gpt-ad-marketplace',
+		iu:'/7299/web.homepage.tvb/home/marketplace',
+		sz:[310, 70],
+		cp:{ adtype:'marketplace'}
+	},{
+		id:'div-gpt-ad-textlink',
+		iu:'/7299/web.homepage.tvb/home/textlink',
+		sz:[1,1],
+		cp:{ adtype:'textlink'}
+	},{
+		id:'div-gpt-ad-textlink2',
+		iu:'/7299/web.homepage.tvb/home/textlink2',
+		sz:[1,1],
+		cp:{ adtype:'textlink2'}
+	}],
+	cp:{
+		user:'x',dtype:'x',category:'x',channel:'x',programme:'x',episode:'x',vtype:'x'
+	},
+});
+
+    </script>
+<!-- End: GPT -->
+</head>
+<body>
+<!--
+<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
+-->
+<script type="text/javascript" src="http://img.tvb.com/membership/js/jquery.tvblogin.v2.debug.js"></script>
+<div id="hd-wrapper">
+	<div id="hd">
+		<div id="hd-left">
+			<a href="http://www.tvb.com"><img alt="tvb.com" title="tvb.com" id="hd-logo" src="http://img.tvb.com/homepage/tvb_logo_day_2017.gif" border="0" /></a>
+
+
+            <img src="http://member.tvb.com/tencent/weibo.php" style="display:none;" />
+				<a id="hd-forum" href="http://forum.tvb.com/"></a>
+<script>
+if(check_set_homepage())
+{
+	document.write('<a href="javascript:set_homepage();"><div id="hd-home" alt="設定tvb.com為首頁" title="設定tvb.com為首頁"></div></a>');
+}
+</script>	
+			<!-- iframe id="hd-login-status" src="http://member.tvb.com/data/membership/login_status_utf8_fp.php?dest_url=http://www.tvb.com/&theme=day&r=758531178" frameborder="0"></iframe -->
+			<div id="hd-login-status">
+<p class="ghd-login-status"><a href="https://member.tvb.com/register.php?lang=zh">新用戶?</a><span style="font-size: 0px;">&nbsp;|&nbsp;</span><a class="not-login" href="https://member.tvb.com/login.php?lang=zh&action=login&destURL=http://www.tvb.com/">登入　</a></p>			</div>
+		</div>
+		<div id="hd-right">
+			<div id="hd-hot-keyword" class="general-text">
+熱門:&nbsp;<a href="javascript:setTag('飛虎之潛行極戰')" >飛虎之潛行極戰</a><a href="javascript:setTag('宮心計2深宮計')" >宮心計2深宮計</a>			</div>
+			<div id="hd-search">
+<form id="hd-search-form" name="hd-search-form" action="http://search.tvb.com/search.php" method="post" onsubmit="return validate(this)">
+	<div id="hd-search-dropdown" class="jquerycssmenu">
+		<ul id="hd-search-ul">
+<li id="hd-search-selected-search-type-list-parent"><div id="hd-search-selected-search-type" class="general-text">tvb.com</div>
+	<ul id="hd-search-selected-search-type-list">
+		<li class="general-text"><a href="javascript:tvbHeader.changeSearchSelection(1, 'tvb.com');" style="border:0px; width:100%;">tvb.com</a></li>
+		<li class="general-text"><a href="javascript:tvbHeader.changeSearchSelection(2, '藝人Blog');" style="border:0px; width:100%;">藝人Blog</a></li>
+		<li class="general-text"><a href="javascript:tvbHeader.changeSearchSelection(3, '討論區&nbsp;');" style="border:0px; width:100%;">討論區</a></li>
+		<li class="general-text" style="border-bottom: 0px;"><a href="javascript:tvbHeader.changeSearchSelection(0, '全球網頁&nbsp;');" style="border:0px; width:100%;">全球網頁</a></li>
+	</ul>
+</li>
+		</ul>	
+	</div>
+	<div id="hd-search-input">
+		<input id="hd-search-input-search-text" class="general-text" type="text" style="" value="輸入搜尋字" onblur="fillBlank(this)" onfocus="clearBlank(this)" name="q"/>
+	</div>
+	<div id="hd-search-button">
+		<input width="24px" type="image" height="24px" border="0" title="搜尋 Search" alt="搜尋 Search" src="http://img.tvb.com/p/blank.gif"/>
+	</div>
+	<div id="hd-search-logo">
+		<!--  img id="hd-search-logo-img" src="http://img.tvb.com/p/web/images/header/google.gif" width="90px" / -->
+	</div>
+	<input type="hidden" name="ss" id="selSS" value="1" />
+	<input type="hidden" name="encoding" value="utf8">
+</form>			</div>
+		</div>
+	</div>
+</div>
+<div id="big-body-bg">
+	<div id="small-body-bg">
+<style>#big-body-bg { background-image: url(http://img.tvb.com/homepage/weather_bg/day/v2/sunny.jpg) }</style><div class="weather_warning_icon"></div><style>
+#special-msg a {color:#003366;}#special-msg a {
+	text-decoration: none;
+}
+#special-msg a:hover {
+	text-decoration: underline;
+}
+</style>
+                <div id="nav-menu">
+<a href="http://www.mytvsuper.com" id="nav-menu-item-mytvsuper-v5" class="nav-menu-item-v5" alt="myTV SUPER" title="myTV SUPER"></a>
+<a href="http://news.tvb.com" target="_blank" id="nav-menu-item-inews-v5" class="nav-menu-item-v5" alt="無線新聞" title="無線新聞"></a>
+
+<a href="http://ent.tvb.com" id="nav-menu-item-ent-v5" class="nav-menu-item-v5" alt="娛樂 GUIDE" title="娛樂 GUIDE"></a>
+<a href="http://event.tvb.com" id="nav-menu-item-recomm-v5" class="nav-menu-item-v5" alt="熱爆推介" title="熱爆推介"></a>
+
+<a href="http://artiste.tvb.com" id="nav-menu-item-artiste-v5" class="nav-menu-item-v5" alt="藝人 Artiste" title="藝人 Artiste"></a>
+<a href="http://schedule.tvb.com" id="nav-menu-item-epg-v5" class="nav-menu-item-v5" alt="節目表 EPG" title="節目表 EPG"></a>
+<a href="http://corporate.tvb.com/?lang=tc" id="nav-menu-item-corp-v5" class="nav-menu-item-v5" alt="TVB 概覽" title="TVB 概覽"></a>
+        </div>
+                <!--div id="idx-logo">
+        
+<style type="text/css">
+#idx-logo{
+position:absolute;width:90px;height:50px;
+top:-50px;left:240px;
+z-index:3;
+}
+#idx-logo img{border:0;}
+</style>
+<script>
+
+</script>
+
+	</div-->
+                <div id="idx-announce">
+        </div>
+
+		<div id="mpm">
+			<div id="lrec-container"></div>
+
+	<div class="gallery" id="gallery-1">
+							<a href="http://http://www.mytvsuper.com" target="_self">
+				<!--<div class="mpm_overlay">-->
+				<div class="mpm_contains">
+					<img title="武法律師" alt="武法律師" src="http://img.tvb.com/homepage/mpmimg/1528084646_tvb_banner_317x135_koren1.jpg"  />
+											
+									</div>
+				<!--</div>-->
+			</a>
+					<a href="http://www.mytvsuper.com" target="_self">
+				<!--<div class="mpm_overlay">-->
+				<div class="mpm_contains display_none">
+					<img title="冒險王衛斯理之無名髮" alt="冒險王衛斯理之無名髮" src="http://img.tvb.com/homepage/mpmimg/1524629950_tvb_banner_317x135_nohair.jpg"  />
+											
+									</div>
+				<!--</div>-->
+			</a>
+					<a href="http://http://www.mytvsuper.com" target="_self">
+				<!--<div class="mpm_overlay">-->
+				<div class="mpm_contains display_none">
+					<img title="男神機械人" alt="男神機械人" src="http://img.tvb.com/homepage/mpmimg/1528084696_tvb_banner_317x135_koren2.jpg"  />
+											
+									</div>
+				<!--</div>-->
+			</a>
+			</div>
+	<div class="gallery" id="gallery-2">
+							<a href="http://programme.tvb.com/foodandtravel/goodcheapeatssr7" target="_self">
+				<!--<div class="mpm_overlay">-->
+				<div class="mpm_contains">
+					<img title="食好D 食平D" alt="食好D 食平D" src="http://img.tvb.com/homepage/mpmimg/1525678497_eat.jpg"  />
+											<div class="mpm-mask">&nbsp;</div>
+						<div class="mpm-desc">食好D 食平D&nbsp;</div>
+									</div>
+				<!--</div>-->
+			</a>
+					<a href="http://programme.tvb.com/foodandtravel/cookingbeauties" target="_self">
+				<!--<div class="mpm_overlay">-->
+				<div class="mpm_contains display_none">
+					<img title="美女廚房" alt="美女廚房" src="http://img.tvb.com/homepage/mpmimg/1527867720_eat.jpg"  />
+											
+									</div>
+				<!--</div>-->
+			</a>
+					<a href="http://programme.tvb.com/lifestyle/homemadetherapy" target="_self">
+				<!--<div class="mpm_overlay">-->
+				<div class="mpm_contains display_none">
+					<img title="X偏方 全民拆解" alt="X偏方 全民拆解" src="http://img.tvb.com/homepage/mpmimg/1526051696_X.jpg"  />
+											<div class="mpm-mask">&nbsp;</div>
+						<div class="mpm-desc">X偏方 全民拆解&nbsp;</div>
+									</div>
+				<!--</div>-->
+			</a>
+					<a href="http://programme.tvb.com/foodandtravel/midnightbanquets" target="_self">
+				<!--<div class="mpm_overlay">-->
+				<div class="mpm_contains display_none">
+					<img title="深夜美食團" alt="深夜美食團" src="http://img.tvb.com/homepage/mpmimg/1518189046_minight.jpg"  />
+											<div class="mpm-mask">&nbsp;</div>
+						<div class="mpm-desc">消夜天堂&nbsp;</div>
+									</div>
+				<!--</div>-->
+			</a>
+			</div>
+	<div class="gallery" id="gallery-3">
+							<a href="http://programme.tvb.com/drama/deepintherealmofconsciencehongkongversion" target="_self">
+				<!--<div class="mpm_overlay">-->
+				<div class="mpm_contains">
+					<img title="宮心計2深宮計" alt="宮心計2深宮計" src="http://img.tvb.com/homepage/mpmimg/1527767045_BB1093830.jpg"  />
+											<div class="mpm-mask">&nbsp;</div>
+						<div class="mpm-desc">隆基策劃太平離宮&nbsp;</div>
+									</div>
+				<!--</div>-->
+			</a>
+			</div>
+	<div class="gallery" id="gallery-5">
+							<a href="http://fun.tvb.com/form.php?id=208" target="_self">
+				<!--<div class="mpm_overlay">-->
+				<div class="mpm_contains">
+					<img title="天命" alt="天命" src="http://img.tvb.com/homepage/mpmimg/1527495784_SuccessionWar_158x135.jpg"  />
+											
+									</div>
+				<!--</div>-->
+			</a>
+					<a href="http://event.tvb.com/bigbigkidsawards2018" target="_self">
+				<!--<div class="mpm_overlay">-->
+				<div class="mpm_contains display_none">
+					<img title="big big 小明星" alt="big big 小明星" src="http://img.tvb.com/homepage/mpmimg/1527847099_bigbig_158x135.jpg"  />
+											
+									</div>
+				<!--</div>-->
+			</a>
+			</div>
+	<div class="gallery" id="gallery-6">
+							<a href="https://misshk.tvb.com/2018" target="_self">
+				<!--<div class="mpm_overlay">-->
+				<div class="mpm_contains">
+					<img title="missHK" alt="missHK" src="http://img.tvb.com/homepage/mpmimg/1527567087_158x135.jpg"  />
+											
+									</div>
+				<!--</div>-->
+			</a>
+			</div>
+	<div class="gallery" id="gallery-7">
+							<a href="http://programme.tvb.com/drama/flyingtiger0001" target="_self">
+				<!--<div class="mpm_overlay">-->
+				<div class="mpm_contains">
+					<img title="飛虎之潛行極戰" alt="飛虎之潛行極戰" src="http://img.tvb.com/homepage/mpmimg/1527830584_BB1093930.jpg"  />
+											<div class="mpm-mask">&nbsp;</div>
+						<div class="mpm-desc">家朗被委派當臥底&nbsp;</div>
+									</div>
+				<!--</div>-->
+			</a>
+			</div>
+	<div class="gallery" id="gallery-8">
+							<a href="http://programme.tvb.com/drama/loandbehold/" target="_self">
+				<!--<div class="mpm_overlay">-->
+				<div class="mpm_contains">
+					<img title="愛．回家之開心速遞" alt="愛．回家之開心速遞" src="http://img.tvb.com/homepage/mpmimg/1527766729_1093800B04.jpg"  />
+											<div class="mpm-mask">&nbsp;</div>
+						<div class="mpm-desc">老奸巨滑&nbsp;</div>
+									</div>
+				<!--</div>-->
+			</a>
+			</div>
+	<div class="gallery" id="gallery-9">
+							<a href="http://event.tvb.com/j2anniversary/j2.php" target="_self">
+				<!--<div class="mpm_overlay">-->
+				<div class="mpm_contains">
+					<img title="J2" alt="J2" src="http://img.tvb.com/homepage/mpmimg/1527867814_1522145846_j210th.jpg"  />
+											
+									</div>
+				<!--</div>-->
+			</a>
+					<a href="http://programme.tvb.com/drama/greatadventurerwesleythe0001" target="_self">
+				<!--<div class="mpm_overlay">-->
+				<div class="mpm_contains display_none">
+					<img title="冒險王衛斯理之藍血人" alt="冒險王衛斯理之藍血人" src="http://img.tvb.com/homepage/mpmimg/1527835321_TheGreatAdventurerWesleyBleedingBlue_158x135.jpg"  />
+											<div class="mpm-mask">&nbsp;</div>
+						<div class="mpm-desc">星期日晚8:30連環兩小時&nbsp;</div>
+									</div>
+				<!--</div>-->
+			</a>
+					<a href="http://programme.tvb.com/drama/fireofeternallove0001" target="_self">
+				<!--<div class="mpm_overlay">-->
+				<div class="mpm_contains display_none">
+					<img title="烈火如歌" alt="烈火如歌" src="http://img.tvb.com/homepage/mpmimg/1527232958_fireofeternallove0001_158x135.jpg"  />
+											<div class="mpm-mask">&nbsp;</div>
+						<div class="mpm-desc">立即收睇最新劇情 !&nbsp;</div>
+									</div>
+				<!--</div>-->
+			</a>
+			</div>
+<link rel="stylesheet" type="text/css" href="http://img.tvb.com/homepage/css/mpm.css" />
+<script src="http://img.tvb.com/homepage/js/mpm.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	$(".mpm_contains").hover(function(){
+		$(this).css({"opacity": 0.8});
+	},function(){
+		$(this).css({"opacity": 1});
+	});
+
+
+			setTimeout(function(){ webmpm1.init($("#gallery-1"),3) }, 923);
+				setTimeout(function(){ webmpm2.init($("#gallery-2"),4) }, 1573);
+		//setTimeout(function(){ webmpm3.init($("#gallery-3"),1) }, 1860);
+			setTimeout(function(){ webmpm5.init($("#gallery-5"),2) }, 1553);
+							setTimeout(function(){ webmpm9.init($("#gallery-9"),3) }, 941);
+	});
+
+</script>
+			<div id="lrec">
+<!-- Beginning Sync AdSlot 1 for Ad unit web.homepage.tvb ### size: [[300,250]]  -->
+<div id='div-gpt-ad-lrec'>
+        <script type='text/javascript'>
+               // googletag.display('div-gpt-ad-lrec');
+				ads.gpt.show('div-gpt-ad-lrec');
+        </script>
+</div>
+<!-- End AdSlot 1 -->
+			</div>
+			<div id="lrec2">
+<!-- Beginning Sync AdSlot 2 for Ad unit web.homepage.tvb ### size: [[300,250]]  -->
+<div id='div-gpt-ad-lrec2'>
+        <script type='text/javascript'>
+            //    googletag.display('div-gpt-ad-lrec2');
+				ads.gpt.show('div-gpt-ad-lrec-2');
+        </script>
+</div>
+<!-- End AdSlot 2 -->
+            </div>
+		</div>
+		<div id="main-wrapper">
+			<div id="main-left">
+
+                
+<div id="inews-module">
+
+	 <div class="module-title">
+		  <div><a href="http://news.tvb.com" target="_blank">無綫新聞</a></div>
+		  <a class="module-link" href="http://news.tvb.com" target="_blank"><div title="更多無綫新聞" alt="更多無綫新聞">&nbsp;</div></a>
+	 </div>
+
+	 <div class="module-container">
+	 	<div class="inews-breaknews"></div>
+	 	<div id="inews-headline">
+				<div class="indexSmallDiv ">
+					 <h5 class="categoryTitle">新聞頭版</h5>
+					 <div class="indexList clearfix img general-text"><img src="http://img.tvb.com/ti_img/inews/20180605/entries_5b165495e603833b22ef292d_2353843584_small_1528190706.jpg"><span class="smallPlayIcon"><img src="http://img.tvb.com/inews_web/web/play_small.png" /></span><a href="http://news.tvb.com/greaterchina/5b165495e603833b22ef292d" target="_blank" class="title">澳航官網將台灣標註為中國地區 澳洲政府表...</a><span class="misc"><span class="time">17:15</span><div class="vdoIcon"></div></span></div>				</div>
+				<div class="indexSmallDiv general-text">
+					 <h5 class="categoryTitle latest">即時新聞</h5>
+					 <a class="indexList clearfix all" target="_blank" href="http://news.tvb.com/sports/5b1654fbe603833b22ef292e" ><div class="time">17:16〔體育〕</div><div class="title" title="史丹利盃：首都 6-2 黃金騎士">史丹利盃：首都 6-2 ...</div><div class="vdoIcon"></div></a><a class="indexList clearfix all" target="_blank" href="http://news.tvb.com/greaterchina/5b1656e9e603839e22ef292a" ><div class="time">17:24〔兩岸〕</div><div class="title" title="台漢疑疲勞駕駛誤入對面行車線 四車連環相撞兩人傷">台漢疑疲勞駕駛誤入對面行...</div></a><a class="indexList clearfix all" target="_blank" href="http://news.tvb.com/greaterchina/5b165495e603833b22ef292d" ><div class="time">17:15〔兩岸〕</div><div class="title" title="澳航官網將台灣標註為中國地區 澳洲政府表示關注">澳航官網將台灣標註為中國...</div><div class="vdoIcon"></div></a><a class="indexList clearfix all" target="_blank" href="http://news.tvb.com/local/5b165452e60383cd2cef292b" ><div class="time">17:13〔本港〕</div><div class="title" title="元朗菜檔違《噪音管制條例》播叫賣錄音 判罰款1.7萬元">元朗菜檔違《噪音管制條例...</div><div class="vdoIcon"></div></a><a class="indexList clearfix all" target="_blank" href="http://news.tvb.com/finance/5b1652b7e603839222ef2927" ><div class="time">17:07〔財經〕</div><div class="title" title="據報螞蟻金服業務轉攻技術服務">據報螞蟻金服業務轉攻技術...</div><div class="vdoIcon"></div></a><a class="indexList clearfix all" target="_blank" href="http://news.tvb.com/local/5b1652b0e60383e327ef292b" ><div class="time">17:06〔本港〕</div><div class="title" title="天文台：明日視風力變化 決定是否改發三號強風信號">天文台：明日視風力變化 ...</div><div class="vdoIcon"></div></a><a class="indexList clearfix all" target="_blank" href="http://news.tvb.com/local/5b16501ee60383a25eef2929" ><div class="time">16:55〔本港〕</div><div class="title" title="天文台：視乎風力變化 決定明天是否改發三號強風信號">天文台：視乎風力變化 決...</div></a><a class="indexList clearfix all" target="_blank" href="http://news.tvb.com/world/5b164f35e603833b22ef292c" ><div class="time">16:52〔國際〕</div><div class="title" title="沙特首次向女性發駕駛執照 三周後解禁女性駕車">沙特首次向女性發駕駛執照...</div><div class="vdoIcon"></div></a><a class="indexList clearfix all" target="_blank" href="http://news.tvb.com/world/5b164f01e603835334ef2928" ><div class="time">16:51〔國際〕</div><div class="title" title="馬來西亞反貪部門傳召前首相納吉布妻子問話">馬來西亞反貪部門傳召前首...</div><div class="vdoIcon"></div></a><a class="indexList clearfix all" target="_blank" href="http://news.tvb.com/greaterchina/5b164af7e603830321ef2927" ><div class="time">16:33〔兩岸〕</div><div class="title" title="中科院成功從礦石提煉「凹凸棒石」 料有助多行業發展">中科院成功從礦石提煉「凹...</div></a>				</div>
+		  </div>
+	 </div>		  
+</div>
+				
+                
+			</div>
+
+			<div id="main-middle">
+
+    			<div id="jetso-ad" class="module-container">
+<!-- Beginning Sync AdSlot 4 for Ad unit web.homepage.tvb ### size: [[310,70]]  -->
+<div id='div-gpt-ad-marketplace'>
+        <script type='text/javascript'>
+//                googletag.display('div-gpt-ad-marketplace');
+				ads.gpt.show('div-gpt-ad-marketplace');
+        </script>
+</div>
+<!-- End AdSlot 4 -->
+    			</div>
+                <style>
+/*#entnews-module ul {margin: 0px;}
+#entnews-module .module-container a {line-height: 20px;}
+#entnews-headline li {height: 20px}
+*/</style>
+<div id="entnews-module">
+    <div class="module-title">
+        <div><a href="http://ent.tvb.com">娛樂GUIDE</a></div>
+        <a class="module-link" href="http://ent.tvb.com"><div title="更多新消息" alt="更多新消息">&nbsp;</div></a>
+    </div>
+    <div class="module-container">
+	 	<div id="entnews-headline">
+	 				 		<h5 class="categoryTitle">娛樂新聞</h5>
+		        <div class="indexSmallDiv ">
+		            <div class="indexList clearfix img general-text"><img src="http://img.tvb.com/enews/images/46/5b154cea6db28c655ed61a4e/f97b3f2b745b50029114b52f6baa432a/thumbnail.jpg"><span class="smallPlayIcon"><img src="http://img.tvb.com/inews_web/web/play_small.png" /></span><a href="http://ent.tvb.com/enews/5b154cea6db28c655ed61a4e" target="_blank" class="title">林奕匡舉行音樂會 與老婆公然甜蜜互動</a><span class="misc"></span></div>		        </div>
+		        <div class="indexSmallDiv general-text">
+		            <ul><li class="general-text"><a class="indexList clearfix all" target="_blank" href="http://ent.tvb.com/enews/5b154ca36db28c735ed61a4e" title="松岡李那書展推出寫真集 為電影角色苦練廣東話"><font class="bullet">&#149;</font>松岡李那書展推出寫真集 為電影角色苦練廣...</a></li><li class="general-text"><a class="indexList clearfix all" target="_blank" href="http://ent.tvb.com/enews/5b154c916db28c635ed61a4e" title="傅嘉莉難忘橫店拍劇 透露正經營頭飾小生意"><font class="bullet">&#149;</font>傅嘉莉難忘橫店拍劇 透露正經營頭飾小生意</a></li><li class="general-text"><a class="indexList clearfix all" target="_blank" href="http://ent.tvb.com/enews/5b154c876db28c595ed61a4f" title="曹永廉康華分享護髮心得 透露拍古裝劇令頭髮受損"><font class="bullet">&#149;</font>曹永廉康華分享護髮心得 透露拍古裝劇令頭...</a></li><li class="general-text"><a class="indexList clearfix all" target="_blank" href="http://ent.tvb.com/enews/5b154c7e6db28c365ed61a4e" title="柴咲幸進軍國際樂壇 以新歌手名MuseK推出英文歌"><font class="bullet">&#149;</font>柴咲幸進軍國際樂壇 以新歌手名MuseK...</a></li><li class="general-text"><a class="indexList clearfix all" target="_blank" href="http://ent.tvb.com/enews/5b154c736db28c095ed61a4e" title="Oh My Girl襲台舉辦粉絲見面會 載歌載舞炒熱全場氣氛"><font class="bullet">&#149;</font>Oh My Girl襲台舉辦粉絲見面會 ...</a></li><li class="general-text"><a class="indexList clearfix all" target="_blank" href="http://ent.tvb.com/enews/5b154c996db28c645ed61a4e" title="爆江嘉敏獲化妝師現場提歌詞 胡鴻鈞透露今年專注音樂工作"><font class="bullet">&#149;</font>爆江嘉敏獲化妝師現場提歌詞 胡鴻鈞透露今...</a></li></ul>		        </div>
+	        	 			    </div>
+    </div>
+</div>
+                				
+
+            </div>
+
+			<div id="main-right">
+				<div id="main-right-ad-wrapper">
+<!-- Beginning Sync AdSlot 3 for Ad unit web.homepage.tvb ### size: [[300,100]]  -->
+<div id='div-gpt-ad-minibanner'>
+        <script type='text/javascript'>
+//                googletag.display('div-gpt-ad-minibanner');
+				ads.gpt.show('div-gpt-ad-minibanner');
+        </script>
+</div>
+<!-- End AdSlot 3 -->
+
+
+<!-- Beginning Sync AdSlot 5 for Ad unit web.homepage.tvb ### size: [[1,1]]  -->
+<div id='div-gpt-ad-textlink'>
+        <script type='text/javascript'>
+//                googletag.display('div-gpt-ad-textlink');
+				ads.gpt.show('div-gpt-ad-textlink');
+        </script>
+</div>
+<!-- End AdSlot 5 -->
+
+<!-- Beginning Sync AdSlot 6 for Ad unit web.homepage.tvb ### size: [[1,1]]  -->
+<div id='div-gpt-ad-textlink2'>
+        <script type='text/javascript'>
+//                googletag.display('div-gpt-ad-textlink2');
+				ads.gpt.show('div-gpt-ad-textlink2');
+        </script>
+</div>
+<!-- End AdSlot 6 -->
+				</div>
+				<div id="whatsnew-module">
+    <div class="module-title">
+        <div><a href="http://b.tvb.com/whatsnew/">最新消息</a></div>
+        <a class="module-link" href="http://b.tvb.com/whatsnew/"><div title="更多新消息" alt="更多新消息">&nbsp;</div></a>
+    </div>
+    <div class="module-container">
+ 
+<ul><li class="general-text"><a href="http://b.tvb.com/whatsnew/?p=25050" title="《海上夏日郵樂園》記者會">《海上夏日郵樂園》記者會</a></li><li class="general-text"><a href="http://b.tvb.com/whatsnew/?p=25042" title="《美女廚房》「美女學徒 閃亮登場」活動">《美女廚房》「美女學徒 閃亮登場」活動</a></li><li class="general-text"><a href="http://b.tvb.com/whatsnew/?p=25012" title="杜如風帶觀眾到北海道潮買潮玩">杜如風帶觀眾到北海道潮買潮玩</a></li></ul>    </div>
+</div>
+
+				
+
+<div id="fun-module">
+    <div class="module-title">
+        <div><a href="http://fun.tvb.com">互動專區</a></div>
+        <a class="module-link" href="http://fun.tvb.com"><div title="更多" alt="更多">&nbsp;</div></a>
+    </div>
+    <div class="module-container">
+        <div><a href="http://programme.tvb.com/lifestyle/ownsweethome/game/?id=171" title="J2《安樂蝸》大召集"><img src="http://img.tvb.com/gsf/upload/big5/ud7tw70o1h2.jpg"></a><a href="http://fun.tvb.com/form.php?id=208" title="《天命》與偶像同台大招募"><img src="http://img.tvb.com/gsf/upload/en/dpriv2zvnp4n.jpg"></a><a href="http://img.tvb.com/gsf/upload/admission_tickets.pdf" title="索取參加表格"><img src="http://img.tvb.com/gsf/upload/big5/u896dluh1xl.jpg"></a></div><ul><li class="general-text"><a href="http://event.tvb.com/thinkbig/recruitment1.php">《Think Big Family》會...</a></li><li class="general-text"><a href="http://b.tvb.com/whatsnew/?cat=5048">得獎結果公佈</a></li></ul></ul>    </div>
+</div>
+
+				<div id="epg-module">
+    <div class="module-title"><div><a href="http://schedule.tvb.com">節目表</a></div><a href="http://schedule.tvb.com" class="module-link"><div alt="更多節目表資訊" title="更多節目表資訊">&nbsp;</div></a></div><div class="epg-module-container"><div class="epg-module-header"><div class="epg-header-datetime">2018.06.05 (二) 05:39PM</div><div class="epg-header-update"></div></div><div class="epg-module-row"><div class="epg-module-row-num"><div class="epg-module-row-num-icon"><div class="epg-module-row-num-81">&nbsp;</div></div></div><div class="epg-module-row-logo"><div class="epg-module-row-logo-icon"><div onclick="window.location='http://programme.tvb.com/jade/'" style="cursor:pointer;" class="epg-module-row-logo-81">&nbsp;</div></div></div><div class="epg-module-row-content"><p class="general-text">變身少女花啦啦[粵/韓]</p></div><div class="epg-module-row-flag"></div></div><div class="epg-module-row"><div class="epg-module-row-num"><div class="epg-module-row-num-icon"><div class="epg-module-row-num-84">&nbsp;</div></div></div><div class="epg-module-row-logo"><div class="epg-module-row-logo-icon"><div onclick="window.location='http://programme.tvb.com/pearl/'" style="cursor:pointer;" class="epg-module-row-logo-84">&nbsp;</div></div></div><div class="epg-module-row-content"><p class="general-text">動物地圖集[英]</p></div><div class="epg-module-row-flag"></div></div><div class="epg-module-row"><div class="epg-module-row-num"><div class="epg-module-row-num-icon"><div class="epg-module-row-num-85">&nbsp;</div></div></div><div class="epg-module-row-logo"><div class="epg-module-row-logo-icon"><div onclick="window.location='http://programme.tvb.com/tvbfinanceinformationchannel'" style="cursor:pointer;" class="epg-module-row-logo-85">&nbsp;</div></div></div><div class="epg-module-row-content"><p class="general-text">普通話新聞報道[普]</p></div><div class="epg-module-row-flag"></div></div><div class="epg-module-row"><div class="epg-module-row-num"><div class="epg-module-row-num-icon"><div class="epg-module-row-num-82">&nbsp;</div></div></div><div class="epg-module-row-logo"><div class="epg-module-row-logo-icon"><div onclick="window.location='http://programme.tvb.com/j2/'" style="cursor:pointer;" class="epg-module-row-logo-82">&nbsp;</div></div></div><div class="epg-module-row-content"><p class="general-text">環球大鑊飯[粵/英]</p></div><div class="epg-module-row-flag"></div></div><div class="epg-module-row"><div class="epg-module-row-num"><div class="epg-module-row-num-icon"><div class="epg-module-row-num-83">&nbsp;</div></div></div><div class="epg-module-row-logo"><div class="epg-module-row-logo-icon"><div onclick="window.location='http://programme.tvb.com/tvbnewschannel/'" style="cursor:pointer;" class="epg-module-row-logo-83">&nbsp;</div></div></div><div class="epg-module-row-content"><p class="general-text">新聞報道</p></div><div class="epg-module-row-flag"></div></div></div></div>
+			</div>
+		<div id="app-module">
+    <div class="module-title">
+        <div>TVB 應用程式</div>
+    </div>
+    <div class="module-container">
+        <ul class="clearfix">
+            <li>
+                <div class="mytv_super">
+                    <span class="donwload"><div>
+                        <a class="apple btn" target="_blank" title="App Store" href="https://itunes.apple.com/hk/app/mytv-super/id1080187984?ls=1&mt=8"></a>
+                        <a class="google btn" target="_blank" title="Google play" href="https://play.google.com/store/apps/details?id=com.tvb.mytvsuper"></a>
+                        <a class="back" href="#back" title="back"></a>
+                    </div></span>
+                </div>
+            </li>
+            <li>
+                <div class="bigbigchannel">
+                    <span class="donwload"><div>
+                        <a class="apple btn" target="_blank" title="App Store" href="https://itunes.apple.com/us/app/big-big-channel/id1185776564?mt=8"></a>
+                        <a class="google btn" target="_blank" title="Google play" href="https://play.google.com/store/apps/details?id=hk.com.tvb.bigbigchannel"></a>
+                        <a class="back" href="#back" title="back"></a>
+                    </div></span>
+                </div>
+            </li>
+            <li>
+                <div class="inews">
+                    <span class="donwload"><div>
+                        <a class="apple_s btn" target="_blank" title="App Store - iphone" href="https://itunes.apple.com/hk/app/wu-xian-xin-wen/id547917626?mt=8"></a>
+                        <a class="google_s btn" target="_blank" title="Google play - phone" href="https://play.google.com/store/apps/details?id=com.tvb.iNews"></a>
+                        <a class="windows_phone btn" target="_blank" title="Window Phone " href="http://www.windowsphone.com/zh-hk/store/app/%E7%84%A1%E7%B6%AB%E6%96%B0%E8%81%9E/90f8b5aa-b7da-4a8f-9afe-0c70b5a53602"></a>
+                        <a class="back" href="#back" title="back"></a>
+                    </div></span>
+                </div>
+            </li>
+            <li>
+                <div class="entnews">
+                    <span class="donwload"><div>
+                        <a class="apple btn" target="_blank" title="App Store" href="https://itunes.apple.com/hk/app/yu-leguide/id937135739?l=zh&mt=8"></a>
+                        <a class="google btn" target="_blank" title="Google play" href="https://play.google.com/store/apps/details?id=com.tvb.enews"></a>
+                        <a class="back" href="#back" title="back"></a>
+                    </div></span>
+                </div>
+            </li>
+            <li>
+                <div class="finance">
+                    <span class="donwload"><div>
+                        <a class="apple_s btn" target="_blank" title="App Store" href="https://itunes.apple.com/hk/app/tvb-finance/id571927451?mt=8"></a>
+                        <a class="google_s btn" target="_blank" title="Google play" href="https://play.google.com/store/apps/details?id=com.tvb.androidmoneysmart&feature"></a>
+                        <a class="windows_phone btn" target="_blank" title="Windows Store - phone" href="http://www.windowsphone.com/zh-hk/store/app/tvb-finance/a4acf90a-4a9c-4497-b82c-fe4b40a8a0ab"></a>
+                        <a class="back" href="#back" title="back"></a>
+                    </div></span>
+                </div>
+            </li>
+             <li>
+                <div class="zone">
+                    <span class="donwload"><div>
+                        <a class="apple btn" target="_blank" title="App Store" href="https://itunes.apple.com/hk/app/tvb-zone/id600337489?mt=8"></a>
+                        <a class="google btn" target="_blank" title="Google play" href="https://play.google.com/store/apps/details?id=com.tvb.tvbweekly.zone"></a>
+                        <a class="back" href="#back" title="back"></a>
+                    </div></span>
+                </div>
+            </li>
+            <!--li class = "last">
+              <div class = "none"></div>
+            </li-->
+        </ul>
+    </div>
+</div>
+		
+		</div>
+      
+
+		<div id="programme-highlight">
+<div class="module-title">節目推介</div><div class="pp-module-row-container"><ul><li class="pp_module_row row1"><div class="pp_module_item"><a href="http://www.mytvsuper.com/result/programme/100893"><img border="0" src="http://img.tvb.com/ii/8/17355/000001735472_1299294873.jpg" title="新聞檔案" alt="新聞檔案"/></a></div></li><li class="pp_module_row row2"><div class="pp_module_item"><a href="http://www.mytvsuper.com/result/programme/109077"><img border="0" src="http://img.tvb.com/ii/34/92062/000009206116_1478148784.jpg" title="商．對論" alt="商．對論"/></a></div></li><li class="pp_module_row row3"><div class="pp_module_item"><a href="http://www.mytvsuper.com/result/programme/112857"><img border="0" src="http://img.tvb.com/ii/35/97250/000009724997_1502419062.jpg" title="升學無疆界" alt="升學無疆界"/></a></div></li><li class="pp_module_row row4"><div class="pp_module_item"><a href="http://programme.tvb.com/variety/youngandrestless"><img border="0" src="http://img.tvb.com/homepage/ppimg/1499314292_young2_and_restlessJ2_225x95.jpg" title="#後生仔傾吓偈" alt="#後生仔傾吓偈"/></a></div></li><li class="pp_module_row row5"><div class="pp_module_item"><a href="http://programme.tvb.com/news/apropertyaday"><img border="0" src="http://img.tvb.com/homepage/ppimg/1503331276_001.jpg" title="日日有樓睇" alt="日日有樓睇"/></a></div></li><li class="pp_module_row row6"><div class="pp_module_item"><a href="http://news.tvb.com/programmes/sundayreport"><img border="0" src="http://img.tvb.com/homepage/ppimg/1499682622_sunday.jpg" title="星期日檔案" alt="星期日檔案"/></a></div></li><li class="pp_module_row row7"><div class="pp_module_item"><a href="http://www.mytvsuper.com/result/programme/116806"><img border="0" src="http://img.tvb.com/ii/35/102798/000010279741_1527851254.jpg" title="漫畫工房" alt="漫畫工房"/></a></div></li><li class="pp_module_row row8"><div class="pp_module_item"><a href="http://www.mytvsuper.com/result/programme/104013"><img border="0" src="http://img.tvb.com/ii/25/33484/000003348310_1393920167.jpg" title="財經檔案" alt="財經檔案"/></a></div></li><li class="pp_module_row row9"><div class="pp_module_item"><a href="http://programme.tvb.com/lifestyle/sidewalkscientistsr5/"><img border="0" src="http://img.tvb.com/homepage/ppimg/1496023618_sidewalkscientistsr5_225x95.jpg" title="學是學非" alt="學是學非"/></a></div></li><li class="pp_module_row row10"><div class="pp_module_item"><a href="http://programme.tvb.com/news/freshmanfinance"><img border="0" src="http://img.tvb.com/homepage/ppimg/1503332434_002.jpg" title="「錢」進新世代" alt="「錢」進新世代"/></a></div></li><li class="pp_module_row row11"><div class="pp_module_item"><a href="http://news.tvb.com/programmes/vitallifeline"><img border="0" src="http://img.tvb.com/homepage/ppimg/1503332693_003.jpg" title="最強生命線" alt="最強生命線"/></a></div></li><li class="pp_module_row row12"><div class="pp_module_item"><a href="http://www.mytvsuper.com/result/programme/104591"><img border="0" src="http://img.tvb.com/ii/30/38481/000003848084_1413424525.jpg" title="環球新聞檔案" alt="環球新聞檔案"/></a></div></li><li class="pp_module_row row13"><div class="pp_module_item"><a href="http://jsg.tvb.com/"><img border="0" src="http://img.tvb.com/homepage/ppimg/1514865114_jsg.jpg" title="勁歌金曲" alt="勁歌金曲"/></a></div></li><li class="pp_module_row row14"><div class="pp_module_item"><a href="http://programme.tvb.com/foodandtravel/funabroadsr2"><img border="0" src="http://img.tvb.com/homepage/ppimg/1516373100_travel.jpg" title="3日2夜" alt="3日2夜"/></a></div></li><li class="pp_module_row row15"><div class="pp_module_item"><a href="http://programme.tvb.com/drama/msperfect0002"><img border="0" src="http://img.tvb.com/homepage/ppimg/1525446487_wife.jpg" title="完美的妻子" alt="完美的妻子"/></a></div></li></ul></div>		</div>
+
+		<div id="forum-highlight">
+<div class="module-title"><div><a href="http://forum.tvb.com">討論區</a></div><a href="http://forum.tvb.com" class="module-link"><div alt="更多討論區" title="更多討論區">&nbsp;</div></a></div><div class="forum-cate"><ul><li class="forum-cate-item general-text"><a href="http://forum.tvb.com/viewforum.php?f=1567">宮心計2深宮計</a></li><li class="forum-cate-item general-text"><a href="http://forum.tvb.com/viewforum.php?f=1566">飛虎之潛行極戰</a></li><li class="forum-cate-item general-text"><a href="http://forum.tvb.com/viewforum.php?f=1564">冒險王衛斯理之支離人</a></li><li class="forum-cate-item general-text"><a href="http://forum.tvb.com/viewforum.php?f=1565">食好D 食平D</a></li><li class="forum-cate-item general-text"><a href="http://forum.tvb.com/viewforum.php?f=1507">愛．回家之開心速遞</a></li></ul></div>		</div>
+		<div id="social-module">
+	<script>
+		$(document).ready(function(){
+			$('#wechat_qrcode').hover(function(e) {
+				$('#social-lightbox').fadeIn();
+			}, 
+			function(e) {
+				$('#social-lightbox').fadeOut();
+			});
+			
+			$('#wechat_qrcode').click(function(e) {
+				e.preventDefault();
+			});
+			
+		});
+		</script>
+			<div class="module-title">關注我們</div>
+			<div id="social-icons">
+				<a href="https://www.facebook.com/tvbcom" target="_blank" title="Facebook"><img class="icon-social-module-01" src="http://img.tvb.com/social_media/img/20170210/fb_45x45.png" alt="Facebook"></img></a>
+				<a href="http://weibo.com/tvbcom" target="_blank" title="新浪微博"><img class="icon-social-module-01" src="http://img.tvb.com/social_media/img/20170210/sina_45x45.png" alt="新浪微博"></img></a>
+				<a href="http://t.qq.com/tvbcomhk" target="_blank" title="騰訊微博"><img class="icon-social-module-01" src="http://img.tvb.com/social_media/img/20170210/tencent_45x45.png" alt="騰訊微博"></img></a>
+				<a href="https://twitter.com/tvbcom" target="_blank" title="Twitter"><img class="icon-social-module-01" src="http://img.tvb.com/social_media/img/20170210/twitter_45x45.png" alt="Twitter"></img></a>
+				<a href="http://www.youtube.com/user/tvb" target="_blank" title="YouTube"><img class="icon-social-module-01" src="http://img.tvb.com/social_media/img/20170210/youtube_45x45.png" alt="Youtube"></img></a>
+				<a href="http://i.youku.com/tvbcom" target="_blank" title="Youku優酷"><img class="icon-social-module-01" src="http://img.tvb.com/social_media/img/20170210/youku_45x45.png" alt="優酷"></img></a>
+				<a href="https://plus.google.com/+tvbofficial" target="_blank" title="Google+" rel="publisher"><img class="icon-social-module-01" src="http://img.tvb.com/social_media/img/20170210/google+_45x45.png" alt="Google+"></img></a>
+				<a id="wechat_qrcode" href="http://img.tvb.com/social_media/img/20170210/wechat_QRcode_430x430.jpg" title=" 微信WeChat"><img class="icon-social-module-01" src="http://img.tvb.com/social_media/img/20170210/wechat_45x45.png" alt="WeChat"></img></a>
+				<a href="http://www.instagram.com/tvbcomhk" target="_blank" title="Instagram"><img class="icon-social-module-01" src="http://img.tvb.com/social_media/img/20170210/instagram_45x45.png" alt="Instagram"></img></a>
+				<div class="clearfix"></div>
+				<div id="social-lightbox">
+				<img src="http://img.tvb.com/social_media/img/20170210/wechat_QRcode_430x430.jpg"></img>
+				</div>
+			</div>
+	
+		</div>
+	</div>
+	<div id="ft">
+	<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "9457498" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=9457498&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<div id="ft-link">
+<div class="ft-link-col"><ul>	<li class = 'general-text'><a href = 'http://www.tvb.com/tvbi/index.html'>TVB International</a></li>
+</ul></div><div class="ft-link-col"><ul>	<li class = 'general-text'><a href = 'http://www.tvb.com/weekly'>TVB周刊</a></li>
+</ul></div><div class="ft-link-col"><ul>	<li class = 'general-text'><a href = 'https://www.youtube.com/user/voiceentgp'>星夢娛樂</a></li>
+</ul></div><div class="ft-link-col"><ul>	<li class = 'general-text'><a href = 'http://tvb8.com.hk'>TVB8</a></li>
+</ul></div><div class="ft-link-col"><ul>	<li class = 'general-text'><a href = 'http://tvb8.com.hk'>TVB星河頻道</a></li>
+</ul></div><div class="ft-link-col"><ul>	<li class = 'general-text'><a href = 'http://www.bigbigchannel.com.hk/tc/'>Big Big Channel</a></li>
+</ul></div>
+
+
+</div>
+<div id="ft-crop">
+<div class="ft-crop-info general-text">
+<div class="ft-crop-info-logo">&nbsp;</div><p class="general-text" style="line-height: 1.2em; font-size: 12px ! important; margin-bottom: 0px; margin-top: 11px; width:293px;">Copyright 2018 Television Broadcasts Limited</p>
+</div>
+<div class="ft-crop-link">
+<ul>
+  <li class = 'general-text'><a href = 'http://corporate.tvb.com/?lang=tc'>公司資料</a><br style = 'line-height:10px' /><a href = 'http://corporate.tvb.com/?lang=en'>Corporate Info</a></li>
+  <li class = 'general-text'><a href = 'http://www.tvb.com/terms/index.html'>服務條款</a><br style = 'line-height:10px' /><a href = 'http://www.tvb.com/terms/index_e.html'>Terms of Use</a></li>
+  <li class = 'general-text'><a href = 'http://www.tvb.com/terms/game.html'>遊戲須知</a><br style = 'line-height:10px' /><a href = 'http://www.tvb.com/terms/game_e.html'>Game & Prize Notice</a></li>
+  <li class = 'general-text'><a href = 'http://app2.tvb.com/recruit/index.php?lang=zh-hant-hk'>人才招聘</a><br style = 'line-height:10px' /><a href = 'http://app2.tvb.com/recruit/index.php?lang=en-hk'>Jobs</a></li>
+  <li class = 'general-text'><a href = 'http://ad.tvb.com'>廣告查詢</a><br style = 'line-height:10px' /><a href = 'http://ad.tvb.com'>Ad Enquiry</a></li>
+  <li class = 'general-text'><a href = 'http://www.tvb.com/info/enquiry/index.html'>聯絡我們</a><br style = 'line-height:10px' /><a href = 'http://www.tvb.com/info/enquiry/e_index.htm'>Contact Us</a></li>
+  <li class = 'general-text'><a href = 'http://www.tvb.com/info/faq/corporation.html'>常見問題</a><br style = 'line-height:10px' /><a href = 'http://www.tvb.com/info/faq/e_corporation.html'>FAQ</a></li>
+</ul>
+</ul>
+</div>
+</div>
+	</div>
+<div id='div-gpt-ad-to' style="display:none;">
+  <script type='text/javascript'>
+    ads.gpt.show('div-gpt-ad-to');
+  </script>
+</div>
+<form id="frm-tag" name="frm-tag" action="http://search.tvb.com/search.php" method="post">
+<input type="hidden" id="tag_v" name="q" value="">
+<input type="hidden" name="ss" value="1">
+<input type="hidden" name="encoding" value="utf8">
+</form>
+</div>
+<div style="position:absolute; font-size:0px; width:0px; height:0px; top:0; left:0;">
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2012 Nielsen Online -->
+<script type="text/javascript" src="//secure-sg.imrworldwide.com/v60.js">
+</script>
+<script type="text/javascript">
+  var pvar = { cid: "hk-tvb", content: "0", server: "secure-sg" };
+  var feat = { surveys_enabled: 1, sample_rate: 0.1 };
+  var trac = nol_t(pvar, feat);
+  trac.record().post().do_sample();
+</script>
+<noscript>
+  <div>
+    <img src="//secure-sg.imrworldwide.com/cgi-bin/m?ci=hk-tvb&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" />
+  </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 --><!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "9457498" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=9457498&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag --></div>
+<script src="http://img.tvb.com/homepage/js/revamp.js"></script>
+</body>
+</html>

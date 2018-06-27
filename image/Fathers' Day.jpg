@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>AccessDenied</Code>
+  <Message>The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint.</Message>
+  <RequestId>5B165BDFCB3DB100707163A5</RequestId>
+  <HostId>thumb106.hellorf.com</HostId>
+  <Bucket>preview</Bucket>
+  <Endpoint>oss-cn-hangzhou.aliyuncs.com</Endpoint>
+</Error>

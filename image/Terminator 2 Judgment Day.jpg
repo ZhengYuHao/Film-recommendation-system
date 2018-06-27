@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <link rel="icon" href="http://www.qcloud.com/favicon.ico" type="image/x-icon">
+    <style type="text/css">
+        body,div,p,h1{margin:0;padding:0;line-height:1;}
+        a{color:#0070cc !important;text-decoration: none;}
+        .content{width: 850px;height: 630px;border:solid 1px #e4e5e5;background-color:#fdfdfd;position:absolute;top:30%;left:50%;margin-left:-425px;margin-top:-205px;font-family:'Microsoft yahei';}
+        .notice{margin-bottom:10px;border-bottom:solid 1px #e4e5e5;}
+		.detail{margin-top:30px;}
+		.bd{padding-top: 60px;margin: 0 150px;padding-bottom:30px;}
+        .bd .title{font-size: 22px;color:#171d25;font-weight:normal;margin-bottom:30px;}
+        .bd .title>strong{font-weight:normal;color:#ed711f;}
+		.bd p{font-size:14px;color:#171d25;margin-bottom:20px;}
+        .detail p{font-size:14px;color:#171d25;margin-bottom:10px;}
+        .bd .sub{margin-top:30px;}
+        .bd .sub p{color:#808080;}
+        .ft{width:730px;margin:0 auto;border-top:solid 1px #edeef2;padding-top:30px;}
+        .qcloud-logo{width:96px;height:26px;margin:0 auto;background-image:url(http://imgcache.qq.com/wss/beian/static/img/logo.png);}
+    </style>
+<style type="text/css"></style></head>
+<body>
+    <div class="content" id="noBeian" style="display:none;">
+        <div class="bd">
+            <h1 class="title">温馨提示：<strong>该网站暂时无法访问</strong></h1>
+			<div class="notice">
+				<p>尊敬的用户，您好：</p>
+				<p>由于该网站未完成备案或转入备案，造成您暂时无法访问。</p>
+				<p>根据
+					<a href="//www.qcloud.com/document/product/243/10045" target="_blank" >工信部相关法律法规</a>
+					，网站需要完成备案或备案转入才能提供访问。
+				</p>
+                <br/>
+                <p>如有问题请联系该网站负责人和运营方，由该网站负责人尽快备案恢复访问，谢谢！</p>
+                <p>如果您是该网站负责人，须根据 <a href="//www.qcloud.com/document/product/243/10045" target="_blank">工信部相关法律法规</a> 登录 <a href="//console.cloud.tencent.com/beian" target="_blank">备案控制台</a> 进行备案操作。</p>
+                <p>点击查看<a href="//cloud.tencent.com/document/product/243/14970" target="_blank">备案封禁常见问题</a></p>
+                <br>
+			</div>
+		
+            <div class="detail">
+				<p>备案须知：</p>
+                <p ><a target="_blank" href="//www.qcloud.com/document/product/243/643"> 1、为什么要备案？</a></p>
+				<p ><a target="_blank" href="//www.qcloud.com/document/product/243/9591">2、已经备案过的网站，为什么还要在转入备案？</a></p>
+				<p ><a target="_blank" href="//www.qcloud.com/document/product/243/9622">3、如何进行首次备案？</a></p>
+				<p ><a target="_blank" href="//www.qcloud.com/document/product/243/9623">4、如何进行转入备案？</a></p>
+               
+                <div class="sub">
+					<p>若以上未能解决，可登陆
+						<a href="//console.qcloud.com/workorder/category/create?level1_id=1&level2_id=20&level1_name=%E5%85%AC%E5%85%B1%E5%9F%BA%E7%A1%80%E7%B1%BB%E9%97%AE%E9%A2%98&level2_name=%E5%A4%87%E6%A1%88" target="_blank" >
+						腾讯云工单系统
+						</a>
+						或联系客服：4009-100-100 
+					</p>
+					<p>
+                        <!-- 工信部网站不支持 https, 所以必须写清楚协议头 -->
+						工信部备案查询<a href="http://www.miitbeian.gov.cn/publish/query/indexFirst.action" target="_blank"> 点击进入 </a>
+					</p>
+				</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="content" id="contentViolation" style="display:none;height:380px;top:40%;">
+        <div class="bd">
+            <h1 class="title">温馨提示：<strong>该网站暂时无法访问</strong></h1>
+			<div class="notice" style="border-bottom:solid 0px #e4e5e5">
+				<p>尊敬的用户，您好：</p>
+				<p>由于该网站存在敏感信息或违法内容，造成您暂时无法访问。</p>
+				<br/>
+				<p>您可登录 <a target="_blank" href="//console.qcloud.com/workorder/category/create?level1_id=1&level2_id=20&level1_name=%E5%85%AC%E5%85%B1%E5%9F%BA%E7%A1%80%E7%B1%BB%E9%97%AE%E9%A2%98&level2_name=%E5%A4%87%E6%A1%88">腾讯云工单系统</a> 或联系客服：4009-100-100</p>
+				<br>
+			</div>
+        </div>
+        <div class="ft">
+            <div class="qcloud-logo"></div>
+        </div>
+    </div>
+
+    <script type="text/JavaScript" src="//imgcache.qq.com/open/qcloud/js/version/201408/jquery.201408191328.js"></script>
+    <script type="text/JavaScript" src="//imgcache.qq.com/qcloud/main/scripts/release/common/login/api.js"></script>
+    <script>
+        window.onload = function(){
+            var domain = getTopDomain()
+            getDomainBanType( escHTML(domain) );
+            reporter.collect({
+                module: 'domainBan',
+                operType: 1,
+                operId: 'domain.ban.pv'
+            })
+        }
+
+        function getTopDomain() {
+            var queryObj = paramsToObject( location.search );
+            var domain = queryObj.domain || queryObj.d;
+            return domain.split('.').slice(-2).join('.');   
+        }
+
+        function paramsToObject(queryString) {
+            var _result = {}, _pairs, _pair, _query, _key, _value;
+
+            if (typeof(queryString) === 'object') { return queryString; }
+
+            _query = queryString || window.location.search;
+            _query = _query.replace('?', '');
+            _pairs = _query.split('&');
+
+            _pairs.forEach(function (keyVal, i) {
+                _pair = keyVal.split('=');
+                _key = _pair[0];
+                _value = _pair.slice(1).join('=');
+                _result[decodeURIComponent(_key)] = decodeURIComponent(_value);
+            });
+
+            return _result;
+        };
+
+        function getDomainBanType(domain) {
+            var startTime = Date.now();
+            var csrfCode = window.QCLogin.getCsrfCode();
+            var requestUrl = window.location.href.indexOf('cloud.tencent.com') > -1 ? '//wss.cloud.tencent.com/dns/api/common/get_domain_beian_type' : '//wss.qcloud.com/dns/api/common/get_domain_beian_type';
+            $.ajax({
+                url: requestUrl,
+                data: {
+                    domain: domain,
+                    csrfCode: csrfCode
+                },
+                method: "get",
+                success: function(response){
+                    var code = response && response.status && response.status.code;
+                    var result = response && response.result || {};
+
+                    if(0 !== code) {
+                        $('#noBeian').show();
+                    }else {
+                        if( result.ban_type == 1 ){
+                            $('#noBeian').show();
+                        }else {
+                            $('#contentViolation').show();
+                        }
+                    }
+
+                    reporter.retCode({
+                        url: requestUrl,
+                        code: response && response.status && response.status.code || 0,
+                        time: Date.now() - startTime
+                    });
+                },
+                error: function(e){
+                    $('#noBeian').show();
+                    reporter.retCode({
+                        url: requestUrl,
+                        code: 8,
+                        time: Date.now() - startTime
+                    });
+                },
+                'xhrFields':{
+                    'withCredentials':true// 将XHR对象的withCredentials设为true
+                }, 
+                'cache': false
+            })
+        }
+
+
+        //数据上报代码
+        var http_img_sender = function () {
+            var img = new Image();
+            var sender = function (src) {
+                var _send = function () {
+                    img.onload = img.onerror = img.onabort = function () {
+                        img.onload = img.onerror = img.onabort = null;
+                        img = null;
+                    };
+                    img.src = src;
+                };
+                _send();
+            };
+
+            return sender;
+        };
+
+        var getParam = function (name) {
+            var r = new RegExp("(\\?|#|&)" + name + "=([^&]*)(&|$)")
+            var m = location.href.match(r)
+            if (!m || m == "") m = top.location.href.match(r)
+            return (!m ? "" : m[2]);
+        }
+
+        var parseUrl = function(url) {
+            if (/^(([^:\/?#]+):)?(\/\/([^/?#]*))?([^?#]*)(\?([^#]*))?(#(.*))?$/.test(url)) {
+                var host = RegExp.$4.split(':');
+                return {
+                    protocol: RegExp.$1,
+                    host: RegExp.$4,
+                    hostname: host[0],
+                    port: host[1] || '',
+                    pathname: RegExp.$5,
+                    search: RegExp.$6,
+                    hash: RegExp.$8,
+                    href: url
+                };
+            } else {
+                return null;
+            }
+        };
+
+        var escHTML = function( str ){
+            if (str == 0) {
+                return str;
+            }
+            str = (str || '').toString();
+            return str.replace(/&(?!\w+;)/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/\"/g, '&quot;');
+        };
+
+        /**
+         * 数据上报
+         * @class reporter
+         * @static
+         */
+        var reporter = {
+            getCurPageUrl: function () {   //因为目前的控制台有很多的采用的是
+                var path = window.location.pathname || "";
+                var host = window.location.host || "";
+
+                var arr = path.split("/");
+                var finalArr = [];
+                finalArr.push(host);
+                for (var i = 1; i < Math.min(3, arr.length); i++) {
+                    finalArr.push(arr[i]);
+                }
+
+                return finalArr.join("/");  //最多取前两级
+            },
+
+            /**
+            *   统一罗盘上报
+            *   @param operId string  这个必填的
+            */
+            collect: function (param) {
+                if (!param) { return; }  //如果没有参数,或者没有operId，就忽略
+                var curUrl = reporter.getCurPageUrl() || window.location.href;
+                var from = getParam("from") || getParam("fromSource") || getParam("fromsource") || "other";
+
+                var paramArr = [];
+                var obj = {
+                    "page": curUrl,
+                    "operId": param.operId,   //操作id
+                    "operType": param.operType || 1,  //默认是查看, 1 查看 2点击
+                    "from_flag": param.from || from, //来源,
+                    "ext1": param.ext1 || "", //附加字段,可选
+                    "ext2": param.ext2 || "", //附加字段,可选
+                    "ext3": param.ext3 || "", //附加字段,可选
+                    "ext4": param.ext4 || "", //附加字段,可选
+                    "ext5": param.ext5 || "", //附加字段,可选
+                    "ext6": param.ext6 || "", //附加字段,可选
+                    "ext7": param.ext7 || "", //附加字段,可选
+                    "ext8": param.ext8 || "", //附加字段,可选
+                    "ext9": param.ext9 || "", //附加字段,可选
+                    "ext10": param.ext10 || "", //附加字段,可选
+                    "logtime": Date.now()
+                };
+
+                for (var i in obj) {
+                    paramArr.push(i + "=" + encodeURIComponent(obj[i]));
+                }
+
+                var url = "//report.vip.qq.com/cgi-bin/report?r=reportData/doReport&tbName=dc01253&t=" + Math.random() + "&" + paramArr.join("&");
+                var sender = http_img_sender();
+
+                sender(url);
+
+            },
+
+
+            /**
+             * 上报 CGI 状况
+             *
+             * @method cgi
+             * @param {object} param 上报的 CGI 信息
+             *    - param.url {string} CGI的地址，会对地址进行处理
+             *    - param.code   {number} CGI 返回码
+             *    - param.time   {number} CGI 耗时
+             *	  - param.succMap{object} 可选  code是成功的还是失败的，先查询这个结构里面，如果没有的话，就按照0成功，非0失败的原则处理
+                *    - param.opt    {object} 附加参数，这些参数会被统一按照附加的放进去。目前附加的支持 
+                *		ext2-ext10
+                *		
+                * */
+            retCode : function( param ) {
+                if ( !param || typeof(param) != 'object' || !param.url) {
+                    return;
+                }
+
+                param.opt     = param.opt ||{};
+                param.succMap = param.succMap||{};
+
+                var cgi       = parseUrl( param.url ); 
+                var pageOBj   = parseUrl( window.location.href );
+                
+                //对param进行处理
+                var data = {
+                    url    : param.url ,   //用户的cgi全地址
+                    domain : cgi.host||window.location.host,
+                    cgi    : cgi.pathname,
+                    page   : reporter.getCurPageUrl(),
+                    type   : param.succMap[ param.code ] ? 1 :  (0 == param.code?1:2),  //1成功 ，2 失败 ,3逻辑失败
+                    code   : param.code,
+                    time   : param.time
+                };
+
+
+                for( var i  in param.opt ){  //将opt中的数据复制过来，统一上报
+                    data[i] = param.opt[i];
+                }
+
+                var paramArr = [];
+                for (var i in data) {
+                    paramArr.push(i + "=" + encodeURIComponent( data[i]));
+                }
+
+                var url = "//report.vip.qq.com/cgi-bin/report?r=reportData/doReport&tbName=dc01066&t=" + Math.random() + "&" + paramArr.join("&");
+
+
+                var sender = http_img_sender();
+                sender( url );
+            }
+        }
+    </script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|8f85bc5ee2a463e0e5c16c474a6dd271<![endif]-->

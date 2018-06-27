@@ -1,0 +1,172 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>找不到页面</title>
+<style type="text/css">
+/* GStandard Document */
+
+ol, ul {list-style: none;}
+blockquote:before, blockquote:after,q:before, q:after {content: "";}
+blockquote, q {quotes: "" "";}
+/* Init */
+html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,del, dfn, em, font, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,dl, dt, dd, ol, ul, li,fieldset, form, label, legend{margin: 0; padding: 0;border: 0; outline: 0; font-weight: inherit; font-style: inherit; font-size: 100%; font-family: inherit;}
+
+/* common */
+body { font-family:"宋体"; text-align:center; font-size:12px; color:#666666; margin-top:0px;}
+a,a:visited{ color:#003399; text-decoration:none;}
+a:hover{ text-decoration:underline;}
+.clearer{ line-height:0px; clear:both; }
+strong{ font-weight:bold;}
+
+/* new clear .clear{overflow:hidden; zoom:1; clear:both;}*/
+.clear:after {content: ".";clear: both;height: 0;visibility: hidden;display: block;} 
+.clear {display: inline-block;    }
+/**//* Hides from IE-mac \*/
+* html .clear {height: 1%;}
+.clear {display: block;}
+/**//* End hide from IE-mac */
+
+
+.GcW{ clear:both; text-align:left; width:980px; margin:0px auto; background-color:#FFFFFF;}
+
+.GsTL22{ clear:both;}
+.GsTL22 li{font-size:14px; line-height:24px; background:url(dots.gif) 0px -34px no-repeat; padding-left:15px; }
+.GsTL22 li a,.GsTL22 li a:visited{ color:#444;}
+.GsTL22 li a:hover{ color:#CC0000;}
+.GsTL22 .time{ padding-left:14px; color:#888;}
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+}
+-->
+</style>
+<link href="images/main.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<!--<script src="http://www.southcn.com/public/2014/js/jquery-1.10.2.min.js"></script>-->
+<script src="http://www.southcn.com/public/2014/js/jquery.cookie.js"></script> 
+<!-- 页头开始0605 -->
+<link rel="stylesheet" href="http://www.southcn.com/public/2014/css/header_common.css"/>
+<!--[if lte IE 8]>
+    <style>#nfw_common_nav.top-nav .login_form .login_cls{line-height: 30px}</style>
+<![endif]-->
+<div class="top-nav" id="nfw_common_nav">
+    <div class="nav_wp">
+        <a href="http://www.southcn.com/" class="home_link"></a>
+        <div class="nav_position">
+            <a href="http://www.southcn.com/" target="_blank">南方网首页</a>
+            <a href="http://news.southcn.com/" target="_blank">新闻</a>
+            <a href="http://economy.southcn.com/" target="_blank">经济</a>
+            <a href="http://news.southcn.com/fu" target="_blank">防务</a>
+            <a href="http://opinion.southcn.com/" target="_blank">时评</a>
+            <a href="http://finance.southcn.com/" target="_blank">财经</a>
+            <a href="http://news.southcn.com/community/" target="_blank">社会</a>
+            <a href="http://news.southcn.com/zhuanti/" target="_blank">专题</a>
+            <span href="javascript:void(0)" class="icon-down more_btn">更多
+            <ul class="more_list"><li><a href="http://theory.southcn.com/" target="_blank">理论</a></li><li><a href="http://bbs.southcn.com/" target="_blank">论坛</a></li><li><a href="http://newscenter.southcn.com/" target="_blank">网谈</a></li><li><a href="http://car.southcn.com/" target="_blank">汽车</a></li><li><a href="http://travel.southcn.com/" target="_blank">旅游</a></li><li><a href="http://ent.southcn.com/" target="_blank">文娱</a></li><li><a href="http://sports.southcn.com/" target="_blank">体育</a></li><li><a href="http://lady.southcn.com/" target="_blank">时尚</a></li><li><a href="http://life.southcn.com/" target="_blank">健康</a></li><li><a href="http://it.southcn.com/" target="_blank">数码</a></li><li><a href="http://tx.southcn.com/" target="_blank">通信</a></li><li><a href="http://tech.southcn.com/" target="_blank">科技</a></li><li><a href="http://energy.southcn.com/" target="_blank">能源</a></li><li><a href="http://house.southcn.com/" target="_blank">房产</a></li><li><a href="http://law.southcn.com/" target="_blank">法治</a></li><li><a href="http://food.southcn.com/" target="_blank">食品</a></li><li><a href="http://cartoon.southcn.com/" target="_blank">动漫</a></li><li><a href="http://tv.southcn.com/" target="_blank">视频</a></li><li><a href="http://edu.southcn.com/" target="_blank">教育</a></li><li><a href="http://kb.southcn.com/" target="_blank">南方快报</a></li><li><a href="http://www.newsgd.com/" target="_blank">NEWSGD.COM</a></li></ul></span>
+        </div>
+        <div class="nav-menu">
+            
+            <a href="javascript:void(0);" class="tras tras-jt" title="简体转换">简</a> <a href="javascript:void(0);" class="tras tras-ft" title="繁体转换">繁</a><a href="http://www.newsgd.com/" target="_blank" class="tras" title="英文网">EN</a>
+            <a id="login_msg" style="display: none"></a>
+            <a id="login_out" href="" style="display:none">[退出]</a>
+            <a class="login-btn" href="#">登录</a>
+            <div class="login_form">
+                <a class="close" href="#">ｘ</a>
+                <form id="login-form">
+                    <div class="legend cl">
+                        <h3>南方网帐号登录</h3>
+                        <span class="register_area"> 没有帐号？<a class="register_btn" target="_blank" href="http://u.southcn.com/index.php?act=register">极速注册</a></span>
+                    </div>
+                    <p class="login_error"></p>
+                    <input type="text" id="req" name="req" placeholder="用户名/E-mail/手机" class="login_cls login_user"/>
+                    <input type="password" id="password" name="password" placeholder="密码" class="login_cls login_pw"/>
+                    <div class="login_meta">
+                        <a style="float:right; display:inline" href="http://u.southcn.com/index.php?act=forget">忘记密码？</a> </div>
+                    <button class="login_btn">登录</button>
+                    <p class="login_dv">- 或用以下帐号直接登录 -</p>
+                    <div class="social_area cl"> <a class="social_qq" href="http://u.southcn.com/qqConnect/index.php">QQ登录</a> <a class="social_weibo" href="http://u.southcn.com/wbConnect/index.php">微博登录</a> </div>
+                </form>
+            </div>
+            <a class="icon-down menu-btn" href="#">导航</a>
+            <div class="top-nav-menu">
+                <a class="close" href="#">ｘ</a>
+                <i class="up"></i>
+                <div class="cl">
+                    <h3 class="often">您最近浏览过的频道：</h3>
+                    <div class="often-menu"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- 页头结束0605 -->
+<div class="GcW clear">
+<div style="padding:100px; 70px 100px 70px;">
+<ul class="GsTL22">
+<li style=" background-color:#EBF8FC; line-height:100px; text-align:center;"><strong><a href="http://www.southcn.com/" target="_blank">您访问的页面不存在,请点击此处，返回南方网首页</a></strong></li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<!-- 细缆页脚20140711 -->
+<div class="footer" id="nfw_common_footer">
+    <div class="wp">
+        <p><a href="http://www.southcn.com/aboutus/aboutus/" target="_blank">网站简介</a>-<a href="http://www.southcn.com/aboutus/map/" target="_blank">网站地图</a>-<a href="http://www.southcn.com/aboutus/service/" target="_blank">广告服务</a>-<a href="http://www.southcn.com/aboutus/job/" target="_blank">诚聘英才</a>-<a href="http://www.southcn.com/aboutus/contactus/" target="_blank">联系我们</a>-<a href="http://www.southcn.com/aboutus/law/" target="_blank">法律声明</a>-<a href="http://www.southcn.com/aboutus/links/" target="_blank">友情链接</a></p>
+        <p style="margin-left:5px">本网站由南方新闻网版权所有，未经授权禁止复制或建立镜像　广东南方网络信息科技有限公司负责制作维护</p>
+        <p style="margin-left:5px">违法和不良信息举报电话：87373397  18122015068</p>
+        <p><a href="http://www.miitbeian.gov.cn" target="_blank">ICP备案号：粤B-20050235</a></p>
+    </div>
+</div>
+<div id="data_output"></div>
+<script src="http://www.southcn.com/public/2014/js/jquery.validate.js"></script>
+<script src="http://www.southcn.com/public/2014/js/article_login.js"></script>
+<script src="http://www.southcn.com/public/2014/js/custom-select-menu.jquery.js"></script>
+<script src="http://www.southcn.com/public/2014/js/main.js"></script>
+<!----baidubegin---->
+<div style="display:none;">
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ffcda14e8d9fc166be9cf6caef393ad0e' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+<!----baiduend---->
+<!----southcntjbegin---->
+<script src="http://www.southcn.com/public/2016/pc/js/webdig.js" async></script>
+<!----southcntjend---->
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"2N+sk1aklw00oY", domain:"southcn.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=2N+sk1aklw00oY" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+<!----baidu-push-begin---->
+<script>
+(function(){
+    var bp = document.createElement('script');
+    bp.src = '//push.zhanzhang.baidu.com/push.js';
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+<!----baidu-push-end---->
+
+
+
+
+
+
+
+<!-- 细缆页脚20140711 -->
+
+</body>
+</html>

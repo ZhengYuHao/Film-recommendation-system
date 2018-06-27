@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="MainIcon">
+    <file>images/MainWindow_1.png</file>
+  </qresource>
+  <qresource prefix="background3">
+    <file>images/4.png</file>
+  </qresource>
+  <qresource prefix="menuIcon">
+    <file>images/logo.png</file>
+  </qresource>
+  <qresource prefix="background">
+    <file>images/2.png</file>
+  </qresource>
+  <qresource prefix="background2">
+    <file>images/3.png</file>
+  </qresource>
+</RCC>
